@@ -1,0 +1,2 @@
+20200330T233724Z|urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect|id-d072cb45-f8f9-42f3-b992-50011b80a9af|http://adfsmdc.cpd3.extranet.gencat.cat/adfs/services/trust|urn:mace:shibboleth:2.0:profiles:saml2:sso|https://idp1-gicar.gencat.cat/idp/shibboleth|urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST|_462199e5fe1f2423b854a7ca3225a42d|SSLNSN0010|urn:oasis:names:tc:SAML:2.0:ac:classes:PasswordProtectedTransport|employeeType,uid,GICAR,eduPersonPrincipalName,gencatPhysicalDeliveryOfficeNameCodi,userID,organization,title,email,organizationalUnit,|77105523R||
+57
